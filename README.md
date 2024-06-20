@@ -15,7 +15,7 @@ I have tested and written all queries on MySQL Workbench which can be found in [
 
 ## Data Quality
 
-Data quality checks can be found in the [DataQuality_Fetch.py](https://github.com/arvindkravi/fetch_analysis/blob/main/DataQuality_Fetch.py) python file.
+Data quality checks can be found in the [DataQuality_Fetch.ipynb](https://github.com/arvindkravi/fetch_analysis/blob/main/DataQuality_Fetch.ipynb) notebook.
 
 The potential issues I discovered were the following:
 
